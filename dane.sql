@@ -1,0 +1,10 @@
+insert INTO klienci VALUES(null,"Jan","Kowalczyk","123456789",905.20,"abcdef@gmail.com");
+insert INTO klienci VALUES(null,"Karol","Poniedziałek","987654321",1405.50,"qwerty@gmail.com");
+insert INTO klienci VALUES(null,"Andrzej","Środa","123412341",2550.20,"zxcasd@gmail.com");
+insert into karty VALUES(null,1,"1234567887654321","1234");
+insert into karty VALUES(null,1,"1111222233334444","4321");
+insert into karty VALUES(null,2,"4321432187658765","8765");
+insert into karty VALUES(null,3,"1357924680123456","1234");
+insert into platnosckarta VALUES(null,1,"987654321","Zakup produktu nr.5942","2022-08-10",599.99);
+insert into platnosckarta VALUES(null,2,"123412341","Zapłata za naprawę","2022-06-05",250.00);
+insert into platnosckarta VALUES(null,3,"123456789","Zakup silnika","2022-05-27",1500.00);
